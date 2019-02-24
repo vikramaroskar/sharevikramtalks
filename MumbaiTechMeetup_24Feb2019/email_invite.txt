@@ -1,0 +1,87 @@
+Agenda [please read till the end for full details] : 
+
+IMP: Registration does not guarantee a ticket. All tickets will be confirmed on the Friday evening before the event.
+
+Welcome to Mumbai's largest OSS community fb.com/hackmum and longest running tech meetup fb.com/mumtechup over 6 years. Our theme for this month's MTP is the unsung heroes of the production system,
+
+===========================================================================
+
+MTP Talks
+
+===========================================================================
+
+Talk #1
+
+Time : 11.00 am - 12.00 pm 
+
+1. Title: IoT design made easy
+
+The talk will be about the open hardware IoT related products that we have been working on at Wyolum. We'll look under the hood, at how off the shelf modules from players such as Espressif, Quectel and Nordic Semi have made it easy to build IoT hardware.
+
+2. Speaker: Anool Mahidaria
+
+3. Bio: Anool is an Electrical Engineer, working in the field of Test & Measurement at Lumetronics. His interests range from Hacking, Origami, Astronomy, Photography and Cycling. He prefers commuting to work on his bicycle. He is one of the founders duo of WyoLum Emergents – a global group of Open Hardware enthusiasts. Between all of his hobbies and cycling, he manages to design and build original Open Source hardware projects. As a master of hardware design, Anool is the driving force behind WyoLum projects. He is also the co-founder of Makers’ Asylum – one of India’s first community driven Maker Spaces. Anool is a contributing writer for the technology blog HACKADAY and finds time to write blog posts on hardware hacking. 
+
+===================================================
+
+Talk # 2 
+
+Time: 12.00 pm - 12.45 pm
+
+1. Title: IoT Data-modelling using Time Series Database 
+
+The session will cover How OpenSource time series data-base can be utilised for data collection and processing which is critically important to most IoT and machine data use cases. This session will also give an introduction to various protocols/products such as Graphite/Carbon, TSDB storage and engines(Influxdb) and real-time processing tools(Chronograf/Grafana).
+
+2. Speaker: Vikram Aroskar & Siji Sunny
+
+3. Bio: 
+
+Vikram works as a Project Manager and Technical Architect at Margo Networks Pvt Ltd. His daily tasks include designing technical architecture for software products, mainly overseeing the microservices architecture. 
+
+An Entrepreneur, Researcher and OpenSource enthusiast,been developing software and doing research for in various domains:Operating Systems & System programming, Embedded & Mobile computing,text processing & language computing, Wireless and LowPower Wireless Networking(IoT).
+
+===================================================
+
+Talk # 3
+
+Time: 12.45 pm - 1.30 pm
+
+1. Title: Arduino Programming for beginners
+
+This session will give a quick overview of Arduino board and getting started with Arduino programming with few live examples.
+
+2. Speaker: Siji Sunny & Inderjeet Singh Jaggi
+
+3. Bio 
+
+Inderjeet Singh Jaggi  have been working in IT industry since 2000, started with being a hardware engineer. Possesses working knowledge in configuring firewall, router., managed switches. Currently working as a Linux system administrator.  Love to learn through Hands-on. He works as Manager-Server at Margo Networks Pvt.Ltd.
+
+Siji - Please see above talk
+
+===================================================
+
+Break
+
+===================================================
+
+Coding Session
+
+Time: 2.00 pm - 5.00 pm 
+
+Free code camp & Proto School 
+
+===========================================================================
+
+Important notes:
+
+1. The meetup is free and open to all technology enthusiasts ONLY. Recruiters and entrepreneurs who are looking to hire, please excuse, this is a purely technical event. Ours is a community run meetup.
+
+2. Its mandatory for all those who are attending to get the tickets for the sessions they intend to attend.[Soft copy is preferrable...a QR code + 2 barcode will be generated for you when you buy a ticket]
+
+3. DO NOT issue tickets if you are not sure of attending. If you get tickets issued and do NOT attend, you go into our blacklist which will be to your disadvantage for ALL our future meetups
+
+4. Please watch out for changes in schedule. We will communicate with you on the email provided during registeration.
+
+5. Right of admissions reserved. Since we have limited seats, we want to ensure the correct audience partakes in the individual sessions. Hence its vital you fill up the relevant boxes on various technologies while registering.
+
+6. There is a break but we do not serve food. Its more of a biobreak and coffee time. Why? See last statement of point 1 above :-)
